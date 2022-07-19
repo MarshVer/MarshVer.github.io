@@ -1,7 +1,7 @@
 ---
 title: VScode中C和C++的环境配置
 date: 2022-07-05 10:22:25
-tags:
+tags: 配置
 ---
 
 # VScode中配置C/C++
